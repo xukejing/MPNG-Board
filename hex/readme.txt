@@ -15,6 +15,8 @@ CH10---D11
 CH11---D12
 
 PWM-in 8个：a8,a9,a10,a11,a12,a13,a14,a15
+对应于pinRcChannel[8] = {0, 1, 2, 3, 4, 5, 6, 7}; // ROLL,PITCH,THROTTLE,YAW,MODE,AUX2,CAMPITCH,CAMROLL
+
 led 3个： D13,D31,D30
 一个相机触发： D46
 
